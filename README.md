@@ -1,39 +1,42 @@
-# Hi, I'm Krishnateja Ganesh 👋
+# Hi, I'm Krishnateja Ganesh
 
-Full-stack developer & AI builder · React · Node.js · PostgreSQL · Docker
+### Full-stack developer · AI tools & workflow automation
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+I build practical software that turns repetitive work into clear, usable workflows. My interests span full-stack applications, Python automation, and self-hosted AI systems.
 
----
+**React · Node.js · Python · PostgreSQL · Docker**
 
-## 🔧 What I'm working on
+## Selected projects
 
-- 🛠 **DocumentFlipper** — a file conversion & management tool. Upload any document, convert it, manage it. Built with React, Node.js & PostgreSQL.
-- 📚 **Learning** — system design, scalable backend architecture, and AI integration patterns.
-- 🤝 **Open to** — open source collaborations, interesting projects, and internship opportunities.
+### [Jobflow](https://github.com/krishnatejaganesh/jobflow)
+A local-first job application pipeline for discovering roles, matching requirements, tailoring resumes, and preparing applications for human review.
 
----
+- Aggregates postings from Greenhouse, Lever, Ashby, and Workable.
+- Uses SQLite to track applications and identify duplicate listings.
+- Includes rule-based resume tailoring, optional LLM integration, PDF generation, and Playwright autofill.
+- Keeps final application submission in the user's hands.
 
-## 🚀 Featured project
+**Python · SQLite · Playwright · ATS APIs**
 
-### [DocumentFlipper](https://github.com/krishnatejaganesh/documentflipper)
-> File conversion & management tool — React · Node.js · PostgreSQL · Docker
+### [PersonalOS](https://github.com/krishnatejaganesh/PersonalOS)
+A self-hosted AI assistant project exploring persistent memory, specialized agents, and model-independent workflows.
 
----
+- Organizes task routing, agent configurations, and workflow outcomes.
+- Includes Telegram integration, a PostgreSQL memory schema, and Docker deployment configuration.
+- Explores how personal workflows can stay useful as models change.
 
-## About me
+**Python · PostgreSQL · Docker · OpenRouter · Telegram**
 
-I'm a full-stack developer and student who loves building tools that solve real problems. I care about clean code, good UX, and shipping things that actually work.
+## What I'm focused on
 
----
+- Building useful interfaces backed by maintainable services.
+- Connecting AI capabilities to workflows with clear user control.
+- Improving system design, backend architecture, and deployment practices.
 
-![Krishnateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnatejaganesh&show_icons=true&hide_border=true&theme=default)
+## Explore my work
 
----
+- [Jobflow source & setup](https://github.com/krishnatejaganesh/jobflow)
+- [PersonalOS source & setup](https://github.com/krishnatejaganesh/PersonalOS)
+- [Portfolio source](docs/index.html)
 
-*Always open to interesting conversations and collaborations — feel free to reach out!*
-
+Open to software development opportunities and open-source collaboration.
