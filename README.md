@@ -37,6 +37,6 @@ A self-hosted AI assistant project exploring persistent memory, specialized agen
 
 - [Jobflow source & setup](https://github.com/krishnatejaganesh/jobflow)
 - [PersonalOS source & setup](https://github.com/krishnatejaganesh/PersonalOS)
-- [Portfolio source](docs/index.html)
+- [Developer portfolio](https://krishnatejaganesh.github.io/krishnatejaganesh/)
 
 Open to software development opportunities and open-source collaboration.
