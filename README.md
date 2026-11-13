@@ -1,42 +1,36 @@
-# Hi, I'm Krishnateja Ganesh
+# Krishnateja Ganesh
 
-### Full-stack developer · AI tools & workflow automation
+### Full-stack developer building practical AI tools and workflow automation
 
-I build practical software that turns repetitive work into clear, usable workflows. My interests span full-stack applications, Python automation, and self-hosted AI systems.
+I work with **React, Node.js, Python, and PostgreSQL** to build applications that simplify everyday work. My interests include usable interfaces, backend services, and self-hosted AI systems.
 
-**React · Node.js · Python · PostgreSQL · Docker**
+**[Explore my portfolio](https://krishnatejaganesh.github.io/krishnatejaganesh/)** · **[Try the Jobflow demo](https://krishnatejaganesh.github.io/jobflow/)** · **[Browse my repositories](https://github.com/krishnatejaganesh?tab=repositories)**
 
-## Selected projects
+Open to **software development opportunities** and open-source collaboration.
 
-### [Jobflow](https://github.com/krishnatejaganesh/jobflow)
-A local-first job application pipeline for discovering roles, matching requirements, tailoring resumes, and preparing applications for human review.
+## Featured public work
 
-- Aggregates postings from Greenhouse, Lever, Ashby, and Workable.
-- Uses SQLite to track applications and identify duplicate listings.
-- Includes rule-based resume tailoring, optional LLM integration, PDF generation, and Playwright autofill.
-- Keeps final application submission in the user's hands.
+| Project | What it explores | Technologies |
+| --- | --- | --- |
+| **[Jobflow](https://github.com/krishnatejaganesh/jobflow)** | A local-first job application pipeline: discover roles, match requirements, tailor resumes, and prepare forms for review. | Python · SQLite · Playwright · ATS APIs |
+| **[PersonalOS](https://github.com/krishnatejaganesh/PersonalOS)** | A self-hosted AI assistant project exploring task routing, configurable agents, and persistent memory. | Python · PostgreSQL · Docker · OpenRouter |
 
-**Python · SQLite · Playwright · ATS APIs**
+**Start with Jobflow:** explore its [source and setup guide](https://github.com/krishnatejaganesh/jobflow), or open the [browser demo](https://krishnatejaganesh.github.io/jobflow/).
 
-### [PersonalOS](https://github.com/krishnatejaganesh/PersonalOS)
-A self-hosted AI assistant project exploring persistent memory, specialized agents, and model-independent workflows.
+## Technical focus
 
-- Organizes task routing, agent configurations, and workflow outcomes.
-- Includes Telegram integration, a PostgreSQL memory schema, and Docker deployment configuration.
-- Explores how personal workflows can stay useful as models change.
+| Area | Toolkit & interests |
+| --- | --- |
+| Frontend | React · usable interfaces |
+| Backend | Node.js · Python · API integration |
+| Data | PostgreSQL · SQLite |
+| Deployment | Docker · self-hosted applications |
+| AI & automation | Model integration · workflow automation · human review |
 
-**Python · PostgreSQL · Docker · OpenRouter · Telegram**
+## What I'm working toward
 
-## What I'm focused on
+- Building maintainable applications from interface to backend.
+- Making automation understandable and keeping users in control.
+- Strengthening system design, testing, and deployment practices.
 
-- Building useful interfaces backed by maintainable services.
-- Connecting AI capabilities to workflows with clear user control.
-- Improving system design, backend architecture, and deployment practices.
-
-## Explore my work
-
-- [Jobflow source & setup](https://github.com/krishnatejaganesh/jobflow)
-- [PersonalOS source & setup](https://github.com/krishnatejaganesh/PersonalOS)
-- [Developer portfolio](https://krishnatejaganesh.github.io/krishnatejaganesh/)
-
-Open to software development opportunities and open-source collaboration.
+See my **[developer portfolio](https://krishnatejaganesh.github.io/krishnatejaganesh/)** for a visual introduction to my work.
